@@ -1,0 +1,8 @@
+The Asian Barometers dataset for India 2019 holds three questions that relate directory to gender. 
+We used these to construct a factor.
+The method used was confirmatory factor analysis with ordinal-logit regression equations.
+These equations enable a score to be set up for each 'level' of each of the three measured gender-norms variables.
+There is one code file. 
+The output includes one csv file which is then read into Stata for further use.
+The unit of analysis of AB is individuals.
+The unit of analysis of the collapsed dataset is aggregated to social group level. 
