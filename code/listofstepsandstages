@@ -1,0 +1,15 @@
+The files are in Stata programming language.  If unsure, you might be able to run Stata from R.
+
+If the cost of software is a barrier to you, just contact us and we will help you get free software to manage your data.
+
+  Author Contact:  Wendy.olsen@manchester.ac.uk 
+
+Use the files in the \code directory.
+  
+Stage 1.  get the Indian TUS 2019 data from the internet and link files together
+Stage 2.  clean the variables and aggregate time per person on each activity 
+Stage 3.  label variables and ensure that time-slot variables are now omitted
+Stage 4.  add a variable from the Asian Barometers dataset, run tables and regressions
+
+In the Asian Barometers dataset, run the single code file in Stata. 
+That filename is found in ABcode directory. 
